@@ -10,4 +10,10 @@ Dissertação (Mestrado em Desenvolvimento Sustentável) — Universidade de Bra
 /dados_saida_analises => análises dos dados de saída do modelo
 
 
+## Reprodutibilidade e disponibilidade dos dados
+Alguns dos scripts disponibilizados neste repositório dependem de arquivos que não puderam ser incluídos no GitHub, em função de limitações de tamanho.
+Dessa forma, a reprodução integral de determinadas rotinas requer o acesso prévio a esses arquivos.
+Os códigos aqui disponibilizados têm como objetivo principal documentar os procedimentos metodológicos adotados, garantir transparência analítica e permitir a verificação conceitual e estrutural das análises realizadas.
+
+
 
